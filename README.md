@@ -15,8 +15,8 @@
 * ЮРГПУ(НПИ) г.Новочеркасск | Прикладная математика | (2019-текущий год)
 
 #### :email:Контакты
-*:fa-vk:  https://vk.com/vladislav_moskvichev
-*:fa-paper-plane:  https://t.me/C01dy
+* :fa-vk:  https://vk.com/vladislav_moskvichev
+* :fa-paper-plane:  https://t.me/C01dy
 	
 
 
