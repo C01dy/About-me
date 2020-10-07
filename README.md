@@ -35,10 +35,10 @@
 * КИТиЭ г.Нальчик | Компьютерные сети | (2018-2019)
 * ЮРГПУ(НПИ) г.Новочеркасск | Прикладная математика | (2019-текущий момент)
 
-#### Контакты
+#### :email:Контакты
 * ###### Социальные сети и мессенджеры
-	:fa-vk:  https://vk.com/vladislav_moskvichev
-	:fa-paper-plane:  https://t.me/C01dy
+	- https://vk.com/vladislav_moskvichev
+	- https://t.me/C01dy
 	
 	
 
