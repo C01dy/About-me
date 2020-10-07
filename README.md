@@ -16,8 +16,8 @@
 
 #### :email:Контакты
 * ###### Социальные сети и мессенджеры
-	:fa-vk:  https://vk.com/vladislav_moskvichev
-	:fa-paper-plane:  https://t.me/C01dy
+:fa-vk:  https://vk.com/vladislav_moskvichev
+:fa-paper-plane:  https://t.me/C01dy
 	
 
 
